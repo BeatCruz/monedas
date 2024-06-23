@@ -1,1 +1,1 @@
-En este pequeño programa funciona como exchange de monedas nacionales.
+Este pequeño programa funciona como exchange de monedas nacionales.
